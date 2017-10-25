@@ -64,8 +64,13 @@
 
 	<div class="container">
 
-    <h1>test de Do</h1>
-    <p>Essai</p>
+		<?php
+			include ('../../tuto/classes/Humain.php');
+			include ('../../tuto/classes/User.php');
+			include('../../tuto/cours/objets.php');
+		?>
+		<p class="lead">Essai AffR()</p>
+
 	</div>
 
 	<div class="container">
